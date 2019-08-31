@@ -6,8 +6,10 @@ Choose the following links to download the installer for your OS.
 
 Please note that 32-bit is not supported for mac or linux.
 
-Windows: https://drive.google.com/file/d/1X_EPVdxNDXFvTSS53-BEpjkLXo3Guvph/view?usp=sharing
+Windows: https://drive.google.com/open?id=1CDwyeGxabzTyeSTmn6mgI1DKwSWbeTEp
 
-Linux: https://drive.google.com/file/d/1cuhAjFodmaONxT53wD4Mv8O_dYyFXmnE/view?usp=sharing
+Linux: https://drive.google.com/open?id=12Oy-jVOptAzP89GOKzva9b6yAuaX56Xd
 
-Mac: https://drive.google.com/file/d/1_ekyHwQ6qsRrlKYSmirOFpGawENHVspC/view?usp=sharing
+Mac: https://drive.google.com/open?id=1mtBq4Dxi5ktTSoFGx5wVQnlYGGJ51AgV
+
+Please note that at this time, the windows installer still has bugs due to a python module not being constructed properly.
