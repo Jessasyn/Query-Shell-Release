@@ -12,7 +12,7 @@ Mac has had no 32-bit versions for a long while now,
 
 Windows has 32-bit versions but no good python support for those versions.
 
-Windows: https://drive.google.com/open?id=1CDwyeGxabzTyeSTmn6mgI1DKwSWbeTEp
+Windows: https://drive.google.com/open?id=16ZlsOmdZGn2ZucttIQc3XB2mDbulndOy
 
 Linux: https://drive.google.com/open?id=12Oy-jVOptAzP89GOKzva9b6yAuaX56Xd
 
