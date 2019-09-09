@@ -6,11 +6,11 @@ Choose the following links to download the installer for your OS.
 
 Please note that 32-bit is only supported for windows.
 
-Windows: https://drive.google.com/open?id=1kFxie8OAxLwrOTqrKmtxnIOyMghl5XVW
+Windows: https://drive.google.com/open?id=1iF6Wr24C34Kux6eUt0nKULIqVXC4nYc2
 
-Linux: https://drive.google.com/open?id=1nN3NOTULp74qtBmqJktggRc9mUdiSro5
+Linux: https://drive.google.com/open?id=1groBYTHv0rheZ6LLHHU0dydTgsfWcFR-
 
-Mac: https://drive.google.com/open?id=1iqunfgzCsv3w2nM-Bj_8TirTHnHEwbQV
+Mac: https://drive.google.com/open?id=1egG8-uh2BvJQCkY7d3Dd3MhGex0J031T
 
 To use the installer, simply extract all files in the tarball to any directory and run the executable. After this, the installer will prompt for all necessary information.
 
