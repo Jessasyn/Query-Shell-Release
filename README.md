@@ -12,5 +12,5 @@ Linux: https://drive.google.com/open?id=1oFXiM8DTyBz8Zd8xMQeuzXCOmQKOWKAa
 
 Mac: https://drive.google.com/open?id=1aOF57q3KCi11pi7jmL6EUscVuBuxRQ92
 
-To use the installer, simply extract all files in the tarball to any directory and run the executable. After this, the installer will prompt for all necessary information.
+To use the installer, simply extract all files in the compressed file to any directory and run the executable. After this, the installer will prompt for all necessary information.
 
