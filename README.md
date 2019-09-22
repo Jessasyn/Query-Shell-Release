@@ -6,11 +6,11 @@ Choose the following links to download the installer for your OS.
 
 Please note that 32-bit is only supported for windows.
 
-Windows: https://drive.google.com/open?id=1uTzE-Y4xR6TNqHAvc2PNq2fVCzAE0-GH
+Windows: https://drive.google.com/open?id=1JyJlQ8_t-zrJ3LddxqvetjpdJq4SaaF4
 
-Linux: https://drive.google.com/open?id=1M1PDUNPYwHRnurmpoMIey-sX5xwU0ltl
+Linux: https://drive.google.com/open?id=1wMTZcjaztPxwe0OJw5CgL0HRk5iejtCI
 
-Mac: https://drive.google.com/open?id=1yEiGsc4PbsGlkQCwXXaEMjU3KCWhY6nW
+Mac: https://drive.google.com/open?id=12I_iJno7EbRXV7Vgg0JfYJRlddbFrhEq
 
 To use the installer, simply extract all files in the compressed file to any directory and run the executable. After this, the installer will prompt for all necessary information.
 
