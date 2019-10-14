@@ -14,5 +14,20 @@ Linux: https://drive.google.com/file/d/1elXNNxBal0Tp_fwpfE2z_RKIa7ToTWdg/view?us
 
 Mac: https://drive.google.com/file/d/1928-bynHNPrQ3GL991kv5-se5VaiDjwm/view?usp=sharing
 
-To use the installer, simply extract all files in the compressed file to any directory and run the executable. After this, the installer will prompt for all necessary information.
+
+# How to install
+
+First, you must download the tar.gzip file for your OS via the google drive link. If you do not have Linux, you will have to install software in order to be able to unpack it (I recommend winrar for windows users https://www.winrar.nl/).
+
+After you have unpacked the file, run the installer in it. You will have to have administrator access in order to run it succesfully.
+
+If you want to use Query-Shell on your own you can simply install Query and leave the admintool be.
+If you want to use Query-Shell with multiple users, you will have to do a bit more;
+
+1.Install Query-Shell on all computers/accounts of your system.
+2.Install the admintool on the accounts of people who know computers well (The IT department in most cases).
+3.Setup the password via the admintool.
+4.Set the path to the password in all instances of Query-Shell.
+5.Set up the shared folder (This must be in either a server connected to all computers of the system or a service like dropbox, so that any user can connect to it. Do not give the users themselves read or write access, only Query-Shell!)
+6.Set the shared folder path in all instances of Query-Shell and the admintool.
 
