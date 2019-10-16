@@ -8,7 +8,7 @@ Please note that 32-bit is only supported for windows.
 
 Windows 32-bit: https://drive.google.com/file/d/1LI7rolBovWBUCuAPIKE_YWzaXxnxqKGN/view?usp=sharing
 
-Windows 64-bit: https://drive.google.com/file/d/1swhR8QIWIzdqe6qbGJoMonVhls6wA8eF/view?usp=sharing
+Windows 64-bit: https://drive.google.com/open?id=1CRgee3keZUs8MUMYBVvdPkkZMDIJSveF
 
 Linux: https://drive.google.com/file/d/1elXNNxBal0Tp_fwpfE2z_RKIa7ToTWdg/view?usp=sharing
 
