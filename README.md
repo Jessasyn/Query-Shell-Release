@@ -24,10 +24,16 @@ After you have unpacked the file, run the installer in it. You will have to have
 If you want to use Query-Shell on your own you can simply install Query and leave the admintool be.
 If you want to use Query-Shell with multiple users, you will have to do a bit more;
 
+
 1.Install Query-Shell on all computers/accounts of your system.
+
 2.Install the admintool on the accounts of people who know computers well (The IT department in most cases).
+
 3.Setup the password via the admintool.
+
 4.Set the path to the password in all instances of Query-Shell.
+
 5.Set up the shared folder (This must be in either a server connected to all computers of the system or a service like dropbox, so that any user can connect to it. Do not give the users themselves read or write access, only Query-Shell!)
+
 6.Set the shared folder path in all instances of Query-Shell and the admintool.
 
