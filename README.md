@@ -6,13 +6,13 @@ Choose the following links to download the installer for your OS.
 
 Please note that 32-bit is only supported for windows.
 
-Windows 32-bit: https://drive.google.com/file/d/1fed_RMZfisezlkmmMSit9c5ZCKraGcUH/view?usp=sharing
+Windows 32-bit: https://drive.google.com/open?id=1Gta1Uf3eRjJo4fMu2EnfjZ5vGNC7sXg4
 
-Windows 64-bit: https://drive.google.com/file/d/1em9kWWyqImM1VgDtfHcYj_g7-TYVutIs/view?usp=sharing
+Windows 64-bit: https://drive.google.com/open?id=1JJ4q3cA2DdGxWSMGjxs-kITho2ZOahYg
 
-Linux: https://drive.google.com/file/d/1QAJEzcxHT9BMsU2lAFQFa1XVxr8qmO-z/view?usp=sharing
+Linux: https://drive.google.com/open?id=1an39gk9Uau-AIECAF1fJ0_wQRn98SxWU
 
-Mac: https://drive.google.com/file/d/1TdHONPENpQNXvyzfvkQKW3mlKfUUpruH/view?usp=sharing
+Mac: https://drive.google.com/open?id=1DtBMABgg1PlVFTFpNV-Q81CkJ4IC3T6v
 
 
 # How to install
